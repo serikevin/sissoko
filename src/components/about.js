@@ -59,13 +59,13 @@ export const About = () => {
                         {DataResponse != null ? DataResponse !== 'error' ? <h3 className="lead my-msg-about desc-about text-desc-main-align text-desc">{DataResponse}</h3> 
                         : 
                         <>
-                            <h4 className="text-error">Oops !.. Sepertinya Ada Yang Salah</h4> 
-                            <p className='text-error-desc'>Server tidak merespon, Mohon tunggu beberapa saat karena akan diperbaiki secepatnya ...</p>
+                            <h4 className="text-error">Désolé !.. Sepertinya Ada Yang Salah</h4> 
+                            <p className='text-error-desc'>Voici tidak merespon, Mohon tunggu beberapa saat karena akan diperbaiki secepatnya ...</p>
                         </>
                         : ''}
                         <div className="button-main-about">
                             <a href={CV} target="__blank" className="btn-main btn-about-space">decouvrir Grand Lahou</a>
-                            <a href="mailto:yoviealfaguistuta@gmail.com" target="__blank" className="btn-main ml-3">Contact Me</a>
+                            <a href="mailto:yoviealfaguistuta@gmail.com" target="__blank" className="btn-main ml-3">Me contacter</a>
                         </div>
                     </div>
                     <div className="col-md-4 text-center">

@@ -34,7 +34,7 @@ export const Header = () => {
                             <li><a href="https://www.linkedin.com/in/yovie-alfa-guistuta-b02496146/" target="_blank" rel="noreferrer">Linkedin</a></li>
                             <li><a href="https://www.instagram.com/yoviealfa/" target="_blank" rel="noreferrer">Instagram</a></li>
                             <li><a href="https://github.com/yoviealfaguistuta" target="_blank" rel="noreferrer">Github</a></li>
-                            <li className='btn-main-header'><a href="mailto:yoviealfaguistuta@gmail.com" className='nopadding'>Contact Me</a></li>
+                            <li className='btn-main-header'><a href="mailto:yoviealfaguistuta@gmail.com" className='nopadding'>Me contacter</a></li>
                         </ul>
                     </div>
                 </div>
