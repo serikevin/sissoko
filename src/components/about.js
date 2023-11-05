@@ -64,7 +64,7 @@ export const About = () => {
                         </>
                         : ''}
                         <div className="button-main-about">
-                            <a href={CV} target="__blank" className="btn-main btn-about-space">Download Resume</a>
+                            <a href={CV} target="__blank" className="btn-main btn-about-space">decouvrir Grand Lahou</a>
                             <a href="mailto:yoviealfaguistuta@gmail.com" target="__blank" className="btn-main ml-3">Contact Me</a>
                         </div>
                     </div>

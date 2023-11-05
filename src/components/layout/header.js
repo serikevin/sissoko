@@ -30,7 +30,7 @@ export const Header = () => {
                 <div id="navbar" className={NavbarCollapse}>
                     <div className="container">
                         <ul className="nav navbar-nav menu-right">
-                            <li><a href={CV} target="_blank" rel="noreferrer">Resume</a></li>
+                            <li><a href={CV} target="_blank" rel="noreferrer">Bienvenue</a></li>
                             <li><a href="https://www.linkedin.com/in/yovie-alfa-guistuta-b02496146/" target="_blank" rel="noreferrer">Linkedin</a></li>
                             <li><a href="https://www.instagram.com/yoviealfa/" target="_blank" rel="noreferrer">Instagram</a></li>
                             <li><a href="https://github.com/yoviealfaguistuta" target="_blank" rel="noreferrer">Github</a></li>
